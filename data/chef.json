@@ -4,57 +4,62 @@
             {
     
                 "id": 1,
-                "rating": { "number": 4.5, "badge": "Excellent" },
-                "total_view": 488,
+                "rating": { "number": 3.5, "badge": "Excellent" },
+                "total_view": 288,
                 "name": "Jimmy Dane",
                 "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoH6gBDJoNVE3UgnuZtypzvElk8W2xBQhJLg&usqp=CAU",
                 "details": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed.",
-                "experience": "6 yaers experience"
+                "experience": "2 yaers experience",
+                "recipes_number": 20
                 
               },
               {
                   "id": 2,
                   "rating": { "number": 4.5, "badge": "Excellent" },
-                  "total_view": 488,
+                  "total_view": 288,
                   "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
                   "name": "Md shamim hosen",
                   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfAXCqOCfTZyWgVZKyPvcOMRETwRB2GXIZNQ&usqp=CAU",
                   "details": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed.",
-                  "experience": "6 yaers experience"
+                  "experience": "8 yaers experience",
+                  "recipes_number": 16
                   
                 },
                 {
                   "id": 3,
-                  "rating": { "number": 4.5, "badge": "Excellent" },
-                  "total_view": 488,
+                  "rating": { "number": 3.5, "badge": "Excellent" },
+                  "total_view": 358,
                   "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
                   "name": "Md Abdula Hosen",
                   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReDcp7xfRcjD-WBxzU-sfGrTHachChZJJhrQ&usqp=CAU",
                   "details": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed.",
-                  "experience": "6 yaers experience"
+                  "experience": "3 yaers experience",
+                  "recipes_number": 15
                   
                 },
                 {
                   "id": 4,
-                  "rating": { "number": 4.5, "badge": "Excellent" },
-                  "total_view": 488,
+                  "rating": { "number": 2.5, "badge": "Excellent" },
+                  "total_view": 338,
                   "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
                   "name": "Salini Rani",
                     "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqDCHAkm02AP-eAbnGD5frZIHK0FQfOpXCbA&usqp=CAU",
                   "details": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed.",
-                  "experience": "6 yaers experience"
+                  "experience": "4 yaers experience",
+                  "recipes_number": 17
                   
                 },
                 {
               
                   "id": 5,
-                  "rating": { "number": 4.5, "badge": "Excellent" },
-                  "total_view": 488,
+                  "rating": { "number": 3.3, "badge": "Excellent" },
+                  "total_view": 388,
                   "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
                   "name": "Md kapul Islam",
                   "img":"data:image/jpeg;base64,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",
                   "details": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed.",
-                  "experience": "6 yaers experience"
+                  "experience": "6 yaers experience",
+                  "recipes_number": 14
                   
                 },
                 {
@@ -65,7 +70,9 @@
                   "name": "Parboti Gupta",
                   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkWVdX6nVn4oj8w9Iwdt2d7EQpqsQV-t6Dg&usqp=CAU",
                   "details": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed.",
-                  "experience": "6 yaers experience"
+                  "experience": "6 yaers experience",
+                  "recipes_number": 10
+                  
                   
                 }
         ]
